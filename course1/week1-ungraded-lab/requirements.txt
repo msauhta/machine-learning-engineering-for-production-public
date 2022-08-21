@@ -1,6 +1,9 @@
-cvlib==0.2.6
-opencv-python-headless==4.5.3.56
-Pillow==8.4.0.
+# install cvlib via pip
+# cvlib==0.2.6
+# install by doing the build (see evernotes)
+# opencv-python-headless==4.5.3.56
+# install rest of requirements using conda install
+Pillow==8.4.0
 tensorflow==2.7.0
 uvicorn==0.16.0
 python-multipart==0.0.5

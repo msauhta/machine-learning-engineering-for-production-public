@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#add by mohitsauhta
+course1/week1-ungraded-lab/images_predicted/
+course1/week1-ungraded-lab/images_uploaded/
+course1/week1-ungraded-lab/images_with_boxes/
